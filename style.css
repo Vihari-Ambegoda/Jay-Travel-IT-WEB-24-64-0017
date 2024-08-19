@@ -1,0 +1,73 @@
+.custom-image {
+    width: 100%; 
+    height: 100px; 
+}
+
+.destination-img {
+    width: 100%; 
+    height: 200px; 
+    object-fit: cover; 
+
+}
+
+.destination-col {
+    max-width: 20%; 
+}
+
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  form {
+    max-width: 600px; 
+    margin: auto; 
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="submit"] {
+    width: 100%; 
+    padding: 0.5rem; 
+    margin-bottom: 1rem; 
+    border-radius: 0.25rem; 
+    border: 1px solid #ccc; 
+  }
+  
+  input[type="submit"] {
+    background-color: rgb(72, 161, 237); 
+    color: #fff; 
+    border: none; 
+    cursor: pointer; 
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #519de9; 
+  }
+  
+  h1 {
+    color: rgb(255, 106, 0); 
+    text-align: center; 
+  }
+  
+  .form-check-input {
+    margin-right: 0.5rem; 
+  }
+  
+  .form-check-label {
+    font-size: 0.9rem; 
+  }
+
+
+
+.footer-colur{
+    color:white;
+}
+
+.footer-colur, .container {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+
+ 
